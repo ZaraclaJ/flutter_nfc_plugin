@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - nfc_plugin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/jordan/flutter/bin/cache/artifacts/engine/ios`)
+  - nfc_plugin (from `/Users/jordan/nfc_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: /Users/jordan/flutter/bin/cache/artifacts/engine/ios
+  nfc_plugin:
+    :path: /Users/jordan/nfc_plugin/ios
+
+SPEC CHECKSUMS:
+  Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
+  nfc_plugin: 408d8352521364984b613f6c526ec23bf45b82a8
+
+PODFILE CHECKSUM: cc70c01bca487bebd110b87397f017f3b76a89f1
+
+COCOAPODS: 1.3.1
